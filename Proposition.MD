@@ -1,20 +1,29 @@
-# Proposal for Scope of Work for "Animated Ambassador Outreach Ad", with Pivot Option
-This is my proposal for creating an animated Ad for the purpose of advertising the existence of the PWC Ambassador Program.
+# Scope of Work Proposal for "Animated Ambassador Outreach Ad", with Pivot Option
+This is my proposal for creating an animated Ad for the purpose of advertising the existence of the PWC Ambassador Program. It's not a contract in itself, but can be used to write one.
 
 </br>
 
-## Scope of Work
-* Minor Script Modifications
-* Storyboarding
-* Voice Over Production
-* Art Direction (Color Scheme, fonts, brand consistency, and other artistic choices)
-* Creation of original artwork assets (characters, settings, etc.) to be used in Animated Ad
-* One Draft Render at 33% completion
-* Another Draft Render at 66% completion
-* One 45s - 55s render after 55 hours of work that:
+## Scope of Work for this Project:
+1. Minor Script Modifications
+2. Storyboarding
+3. Voice Over Production
+4. Art Direction (Color Scheme, fonts, brand consistency, and other artistic choices)
+5. Creation of original artwork assets (characters, settings, etc.) to be used in Animated Ad
+6. One Draft Render at 33% completion
+7. Another Draft Render at 66% completion
+8. One 45s - 55s render after 55 hours of work that:
   - achieves the intended purpose of introducing prospective volunteers to the PWC Ambassador program
   - includes a voice over of the agreed-upon script.
-* Up to two re-renders in response to organized feedback and criticism of original video.
+9. Up to two re-renders in response to organized feedback and criticism of original video.
+
+</br>
+</br>
+
+## Please suggest any desired additions or modifications if they occur to you.
+This document is designed to literally get on us on the same page. After talking with you and Laura, this is what I think you need from me and what I can provide for you. If there is anything missing or incorrect, it will be better if I know now rather than later and unify our thinking throughout the project. This list can be included in the contract we sign. I have included some notes on this list below.
+
+</br>
+</br>
 
 ## Some Thoughts on the Scope
 
