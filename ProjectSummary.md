@@ -4,7 +4,7 @@ An animated video designed to influence volunteers to sign up for the Prince Wil
 </br>
 
 ## Introduction: What is the Ambassador Program Strategy?
-PWC Ambassador's will be connecting local businesses in the county with resources allotted by the CARES Act. The funds and resources available will expire in December, so the purpose of the Ambassador Program is to advertize the economic aide available to Local Businesses. Ambassadors themselves are incentivized to volunteer by three things:
+PWC Ambassador's will be connecting local businesses in the county with resources allotted by the CARES Act. The funds and resources available will expire in December, so the purpose of the Ambassador Program is to advertise the economic aid available to Local Businesses. Ambassadors themselves have three incentives to volunteer:
 
 1. Interest in their communities
 2. Prizes that will be available to them
