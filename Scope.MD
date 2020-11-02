@@ -20,7 +20,7 @@ This is my proposal for creating an animated Ad for the purpose of advertising t
 </br>
 
 ## Please suggest any desired additions or modifications if they occur to you.
-This document is designed to literally get us on the same page. After talking with you and Laura, this is what I think you need from me and what I can provide for you. If there is anything missing or incorrect, it will be better if I know now rather than later and unify our thinking throughout the project. This list can be included in the contract we sign. I have included some notes on this list below.
+This document is designed to literally get us on the same page. After talking with you and Laura, this is what I think you need from me and what I can provide for you. If there is anything missing or incorrect, please let me know.
 
 </br>
 </br>
