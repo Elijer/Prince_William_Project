@@ -14,10 +14,10 @@ PWC Ambassador's will be connecting local businesses in the county with resource
 Although the aim of this aide is officially to encourage new volunteers to sign up for the Ambassador program, the team at 5C consulting has realized that a strategy of DIRECT outreach, especially through an Animated Ad such as this one, may be a powerful companion to, or even replacement of, the Ambassador Strategy. 
 
 ##### **Flow of information using the current Ambassador Strategy:**
-`PWC  --> Ambassadors --> PWC Businesseses`
+`PWC  --> Ambassadors --> PWC Businesses`
 
 ##### **Flow of information using potential Direct Outreach Strategy:**
-`PWC  --> PWC Businesseses`
+`PWC  --> PWC Businesses`
 
 </br>
 
