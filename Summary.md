@@ -1,4 +1,4 @@
-# Animated Ambassador Outreach Ad'
+# Animated Ambassador Outreach Ad
 An animated video designed to influence volunteers to sign up for the Prince William County Ambassador Program (PWC).
 
 </br>
